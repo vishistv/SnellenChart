@@ -95,6 +95,7 @@ public class MainActivity extends AppCompatActivity {
         txtFive.setText(txt5);
     }
 
+
     void setFontStatic(int f1, int f2, int f3, int f4, int f5){
         txtOne.setTextSize(30 - (f1*2));
         txtTwo.setTextSize(30 - (f2*2));
